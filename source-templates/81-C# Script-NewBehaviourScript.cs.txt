@@ -1,0 +1,22 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME# : MonoBehaviour
+{
+
+    #region Fields
+    #endregion
+
+    #region Publics
+    #endregion
+
+    #region Internals
+    #endregion
+
+    #region Unity Methods
+    #endregion
+}
+#ROOTNAMESPACEEND#
